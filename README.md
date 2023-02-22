@@ -10,5 +10,5 @@ Student Info
 =========================
 
 * Student Name: Do Viet Anh
-* Student ID: BI12-024
+* Student ID:  BI12-024
 
